@@ -1,13 +1,14 @@
 {
    "specialRooms": [
-          {
+      {
       "id": 1,
       "title": "اجاره ویلا جنگلی نیل",
       "src": "/img/1008/1.jpeg",
       "TitelReserv": "رزرو کلبه استخردار جنگلی کد ۱۹۰ در رامسر",
       "author": "3 خواب جنگلی کنار رودخونه",
       "description": "ممتاز",
-      "location" :"رامسر"
+      "location" :"رامسر",
+      "path": "/blogs/4"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "TitelReserv": "رزرو کلبه استخردار جنگلی کد ۱۹۰ در رامسر",
       "author": "۳ خواب جنگلی استخر روباز",
       "description": "رزرو فوری",
-      "location" :"شیرود"
+      "location" :"شیرود",
+      "path": "/blogs/3"
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "TitelReserv": "رزرو کلبه استخردار کد ۳۰۹ در رامسر",
       "author": "۳ خواب کلبه استخردار",
       "description": "ممتاز",
-      "location" :"شیرود"
+      "location" :"شیرود",
+      "path": "/blogs/1"
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "TitelReserv": "رزرو ویلا استخردار کد ۱۰۰۰ در رامسر - شیرود",
       "author": "3 خواب جنگلی کنار رودخونه",
       "description": "ممتاز",
-      "location" :"شیرود"
+      "location" :"شیرود",
+      "path": "/blogs/2"
     }
    ]
 }
